@@ -1,0 +1,26 @@
+{
+  "name": "projectweb_concert",
+  "version": "1.0.0",
+  "description": "website with SASS, Gulp and HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoHR3/ProjectWeb-Concert.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Roberto Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoHR3/ProjectWeb-Concert/issues"
+  },
+  "homepage": "https://github.com/RobertoHR3/ProjectWeb-Concert#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
